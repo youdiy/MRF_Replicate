@@ -1,0 +1,17 @@
+| 名字                                                         | 参数               | 价钱（仅供参考） | 购买链接                                                     | 备注 |
+| ------------------------------------------------------------ | ------------------ | ---------------- | ------------------------------------------------------------ | ---- |
+| PEC11R-4215F-S0024旋转编码开关机械式扁平端PEC11R-4220F-S0012 | PEC11R-4215F-S0024 | 30               | https://item.taobao.com/item.htm?_u=l1r8ti8dac05&id=637699541345&spm=a1z09.2.0.0.34162e8d6jCN1v |      |
+| 8mm金属按钮开关自复自锁常开焊脚防水电源启动小型按键开关      | 不带灯 自复 8mm    | 5.5              | https://item.taobao.com/item.htm?_u=l1r8ti8d941c&id=642410698698&spm=a1z09.2.0.0.34162e8d6jCN1v |      |
+| 北醒TFminiPlus激光测距雷达                                   | TFmini Plus        | 329              | https://item.taobao.com/item.htm?_u=l1r8ti8dedcd&id=598424185994&spm=a1z09.2.0.0.34162e8d6jCN1v |      |
+| MPU-6050模块  三轴加速度传感器陀螺仪6DOF GY-521有代码 镀金板 | 未焊接排针         | 6.5              | https://item.taobao.com/item.htm?_u=l1r8ti8d4b77&id=16630417522&spm=a1z09.2.0.0.34162e8d6jCN1v |      |
+| 日本思博 S8FLP10A 10K 小行程推拉式直线弹簧复位电位器         | 10K                | 165              | https://item.taobao.com/item.htm?_u=l1r8ti8d5c5e&id=19795838056&spm=a1z09.2.0.0.34162e8d6jCN1v |      |
+| 原装正品 GY-302 BH1750 光强度光照度模块                      |                    | 4.5              | https://item.taobao.com/item.htm?_u=l1r8ti8d15e7&id=522576060214&spm=a1z09.2.0.0.34162e8d6jCN1v |      |
+| DFRobot FireBeetle 2 ESP32-S3(N4) IoT 开发板                 |                    | 69               | https://item.taobao.com/item.htm?_u=l1r8ti8dfa0f&id=788239064657&spm=a1z09.2.0.0.34162e8d6jCN1v |      |
+| Gravity: 360度旋转编码器开关                                 |                    | 59               | https://item.taobao.com/item.htm?_u=l1r8ti8d85db&id=673529694331&spm=a1z09.2.0.0.34162e8d6jCN1v |      |
+| 1A DC30V手电筒开关 自锁 贴片/直插式 按钮电源开关 开关配件    |                    | 6                | https://item.taobao.com/item.htm?_u=l1r8ti8dfc6a&id=709253217123&spm=a1z09.2.0.0.34162e8d6jCN1v&skuId=5464182779883 |      |
+| 1.12寸oled显示屏sh1107驱动128x128方屏方屏OLED液晶屏1.1寸oled | 5针IIC接口         | 22               | https://item.taobao.com/item.htm?_u=l1r8ti8d0fb5&id=631744611794&spm=a1z09.2.0.0.34162e8d6jCN1v |      |
+| 0.91寸4针液晶屏128*32点阵 SSD1306驱动 IIC接口 OLED显示屏模块 | 白光 不焊接排针    | 6                | https://item.taobao.com/item.htm?_u=l1r8ti8dc210&id=731155326276&spm=a1z09.2.0.0.34162e8d6jCN1v |      |
+| ADS1115 4通道 16位 可编程增益放大器模块模数转换器 转换器 A/D |                    | 19               | https://item.taobao.com/item.htm?_u=l1r8ti8dc70f&id=714907997690&spm=a1z09.2.0.0.34162e8d6jCN1v |      |
+| 分光比 T：R=7:3分光片 精密级别20-80mm 热销分光镜可批量定制   | 30*30*1.1mm        | 30               | https://item.taobao.com/item.htm?_u=l1r8ti8df136&id=794635917785&spm=a1z09.2.0.0.34162e8d6jCN1v |      |
+| K9光学玻璃平凸透镜，直径18MM/20MM,焦距25MM/50MM/70MM等       | Ф20MM F70MM        | 40               | https://item.taobao.com/item.htm?_u=l1r8ti8d1b73&id=570125774122&spm=a1z09.2.0.0.34162e8d6jCN1v |      |
+| 光学K9平凹透镜,高精度凹透镜                                  |                    | 60               | https://item.taobao.com/item.htm?_u=l1r8ti8d35b9&id=16416182823&spm=a1z09.2.0.0.34162e8d6jCN1v |      |
